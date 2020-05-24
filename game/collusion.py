@@ -1,6 +1,6 @@
 import pygame
 
-from main_dir.setting_atributes import SettingAttributes
+from game.setting_atributes import SettingAttributes
 
 bullet_fired = False
 

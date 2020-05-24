@@ -1,6 +1,6 @@
 """importing player to create an enemy """
 
-from main_dir.drawing.player import Player
+from game.drawing.player import Player
 
 """creating enemy is inherit from the Player class """
 

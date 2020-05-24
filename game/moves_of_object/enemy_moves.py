@@ -1,7 +1,7 @@
 """importing an enemy and player"""
 import pygame
 
-from main_dir.moves_of_object.player_move import PlayerMoves
+from game.moves_of_object.player_move import PlayerMoves
 
 bullet_fired = False
 

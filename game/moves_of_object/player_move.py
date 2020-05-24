@@ -2,7 +2,7 @@ import pygame
 
 
 """importing the player for attributes"""
-from main_dir.setting_atributes import SettingAttributes
+from game.setting_atributes import SettingAttributes
 
 
 class PlayerMoves:

@@ -1,6 +1,6 @@
 import pygame
 
-from main_dir.drawing.Views import BackgroundResources
+from game.drawing.Views import BackgroundResources
 
 
 class BackgroundLoads:

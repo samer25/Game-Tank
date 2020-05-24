@@ -1,4 +1,4 @@
-from main_dir.drawing.background_loads import BackgroundLoads
+from game.drawing.background_loads import BackgroundLoads
 
 """getting the screen and setting background  """
 

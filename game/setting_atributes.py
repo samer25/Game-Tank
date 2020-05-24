@@ -1,12 +1,12 @@
 """importing the characters"""
 
-from main_dir.drawing.Views import ViewPlayerTank, ViewEnemy, ViewBullet, ViewBulletEnemy
-from main_dir.drawing.bullets import Bullets
+from game.drawing.Views import ViewPlayerTank, ViewEnemy, ViewBullet, ViewBulletEnemy
+from game.drawing.bullets import Bullets
 
 """importing the players to be set the  position health character and the position of health bar """
 
-from main_dir.drawing.enemy_tank import EnemyTank
-from main_dir.drawing.player import Player
+from game.drawing.enemy_tank import EnemyTank
+from game.drawing.player import Player
 
 
 class SettingAttributes:

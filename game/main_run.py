@@ -1,16 +1,16 @@
 import pygame
 
-from main_dir.collusion import Collusion
-from main_dir.drawing.background import BackGround
+from game.collusion import Collusion
+from game.drawing.background import BackGround
 
 """importing the moves of enemy"""
-from main_dir.moves_of_object.enemy_moves import MovesEnemy
+from game.moves_of_object.enemy_moves import MovesEnemy
 
 """importing the moves of player"""
 
-from main_dir.moves_of_object.player_move import PlayerMoves
+from game.moves_of_object.player_move import PlayerMoves
 
-from main_dir.setting_atributes import SettingAttributes
+from game.setting_atributes import SettingAttributes
 
 run = True
 
